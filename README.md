@@ -1,5 +1,6 @@
 # Image-Morphing
-Author-Details
+Author-Details:
+
 Prerna Garg
 IIT ROPAR
 BTECH CSE
