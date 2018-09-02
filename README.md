@@ -1,5 +1,5 @@
 # Image-Morphing
-Author-Details:
+
 
 Prerna Garg
 IIT ROPAR
