@@ -9,9 +9,10 @@ To compile the code use:
 g++ .cpp -o m `pkg-config --cflags --libs opencv`
 
 If you want to create morph for affine transformation simply enter the image name and 3:3 transformation matrix
+
 If you want to create morph for two images using tie points, then enter the file names for tie points and image names
 
-All the names must be entered as and when asked by terminal, initially just run ./m
+All the names must be entered as and when asked by console, initially just run ./m
 
 The code will output all the intermediate images 
 now to create gif run the following command:
